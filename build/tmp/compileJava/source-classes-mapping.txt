@@ -1,6 +1,0 @@
-ucf/assignments/ToDoList.java
- ucf.assignments.ToDoList
-ucf/assignments/MainMenuController.java
- ucf.assignments.MainMenuController
-ucf/assignments/ListItemsController.java
- ucf.assignments.ListItemsController
